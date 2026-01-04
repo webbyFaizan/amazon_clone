@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -132,7 +132,7 @@ span{
 }
 
 .hero-section{
-    background-image: url('hero_image.jpg');
+    background-image: url('images/hero_image.jpg');
     height: 385px;
     background-size: cover;
     display: flex;
@@ -229,10 +229,11 @@ ul a{
     height: 70px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
